@@ -45,8 +45,13 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=dwgrossberg&theme=dark&background=000000)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dwgrossberg&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+Top Languages :
 
+<div align="center">
+<a href="http://ionicabizau.github.io/github-profile-languages/?user=dwgrossberg">
+  <img src="./top-langs-30-4-2022.png" title="top-langs" alt="top-langs" width="400"/>
+</a>
+</div>
 
 <!--
 **dwgrossberg/dwgrossberg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
