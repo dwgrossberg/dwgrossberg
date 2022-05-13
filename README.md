@@ -48,11 +48,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 Top Languages :
 
-<div align="center">
 <a href="http://ionicabizau.github.io/github-profile-languages/?user=dwgrossberg">
   <img src="./top-langs-30-4-2022.png" title="top-langs" alt="top-langs" width="400"/>
 </a>
-</div>
 
 <!--
 **dwgrossberg/dwgrossberg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
