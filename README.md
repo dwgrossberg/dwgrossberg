@@ -24,7 +24,7 @@
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from the United States.
 
 - 🌱 I’m currently learning Full Stack Web Development with JavaScript via [The Odin Project](https://www.theodinproject.com/)
-- 🔭 I’m currently working on building web applications that adhere to the design principles of Object Oriented Programming, in particular the SOLID design principles
+- 🔭 I’m currently building web applications that adhere to the design principles of Object Oriented Programming, in particular the SOLID design principles
 
 ---
 
