@@ -29,7 +29,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ### :hammer_and_wrench: Languages and Tools :
 
-<div>
+<div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
@@ -50,15 +50,11 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
   </a>
 </p>
 
-Top Languages :
-
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats" src="https://github-readme-stats.vercel.app/api?username=dwgrossberg"></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img alt="dwgrossbergs's top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dwgrossberg&layout=compact&theme=tokyonight"/>
+  </a>
 </p>
-
-<a href="http://ionicabizau.github.io/github-profile-languages/?user=dwgrossberg">
-  <img src="./top-langs-30-4-2022.png" title="top-langs" alt="top-langs" width="400"/>
-</a>
 
 <!--
 **dwgrossberg/dwgrossberg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
