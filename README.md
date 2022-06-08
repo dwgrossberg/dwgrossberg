@@ -8,14 +8,13 @@
   </div>
   <img src="https://komarev.com/ghpvc/?username=dwgrossberg&style=flat-square&color=blue" alt=""/>
   <h1>
-    hi there
+    Hi
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px"/>
+    my name is Daniel
 </h1>
 </div>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=44&color=DE2FF7&center=true&vCenter=true&width=1200&height=150&lines=Fullstack+web+developer;Self-taught+%26+self+motivated+coder;Always+learning+new+things;Husband+and+a+father)](https://git.io/typing-svg)
 
 ---
 
@@ -45,9 +44,17 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ### :fire: My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=dwgrossberg&theme=dark&background=000000)](https://git.io/streak-stats)
+<p align="center">
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+    <img alt="dwgrossbergs's streak" src="http://github-readme-streak-stats.herokuapp.com?user=dwgrossberg&theme=dark-smoky"/>
+  </a>
+</p>
 
 Top Languages :
+
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats" src="https://github-readme-stats.vercel.app/api?username=dwgrossberg"></a>
+</p>
 
 <a href="http://ionicabizau.github.io/github-profile-languages/?user=dwgrossberg">
   <img src="./top-langs-30-4-2022.png" title="top-langs" alt="top-langs" width="400"/>
