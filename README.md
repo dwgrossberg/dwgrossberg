@@ -14,7 +14,7 @@
 </h1>
 </div>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=44&color=DE2FF7&center=true&vCenter=true&width=1200&height=150&lines=Fullstack+web+developer;Self-taught+%26+self+motivated+coder;Always+learning+new+things;Husband+and+a+father)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=50&color=F7D838&center=true&vCenter=true&width=1200&height=150&lines=Fullstack+web+developer;Self-taught+%26+self-motivated+coder;Always+learning+new+things;Husband+and+a+father+)](https://git.io/typing-svg)
 
 ---
 
@@ -52,9 +52,12 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img alt="dwgrossbergs's top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dwgrossberg&layout=compact&theme=tokyonight"/>
+    <img alt="dwgrossbergs's top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dwgrossberg&layout=compact&theme=tokyonight&exclude_repo=curriculum"/>
   </a>
 </p>
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=dwgrossberg)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **dwgrossberg/dwgrossberg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
