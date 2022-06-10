@@ -56,8 +56,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
   </a>
 </p>
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=dwgrossberg)](https://github.com/anuraghazra/github-readme-stats)
-
 
 <!--
 **dwgrossberg/dwgrossberg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
