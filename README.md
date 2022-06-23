@@ -14,7 +14,7 @@
 </h1>
 </div>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=50&color=F7D838&center=true&vCenter=true&width=1200&height=150&lines=Fullstack+web+developer;Self-taught+%26+self-motivated+coder;Always+learning+new+things;Husband+and+a+father+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=36&color=F7DF60&center=true&vCenter=true&width=1200&height=150&lines=Fullstack+web+developer;Self-educated+and+motivated+coder;Always+learning+new+things;Committed+bug-hunter+;Top-notch+Googler;A+husband+and+a+father)](https://git.io/typing-svg)
 
 ---
 
