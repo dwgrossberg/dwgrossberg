@@ -14,7 +14,7 @@
 </h1>
 </div>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=36&color=F7DF60&center=true&vCenter=true&width=1200&height=150&lines=Fullstack+web+developer;Self-educated+and+motivated+coder;Always+learning+new+things;Committed+bug-hunter+;Top-notch+Googler;A+husband+and+a+father)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=45&color=F7E324&center=true&vCenter=true&width=1200&height=150&lines=Fullstack+web+developer;Self-educated+and+motivated+coder;Always+learning+new+things;Top-notch+researcher;Creative+problem+solver)](https://git.io/typing-svg)
 
 ---
 
@@ -42,6 +42,16 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
         <img src="https://github.com/devicons/devicon/blob/master/icons/eslint/eslint-original.svg" title="ESLint" alt="ESLint" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
 </div>
+
+---
+
+### :writing_hand: Soft Skills :
+
+- Excellent at time-management and pursuing independent work
+- Strong communicator, whether client-facing and internal
+- Team-oriented mindset and personality
+- Meticulous and detail-oriented researcher and planner
+- Adaptable, flexible, and affable
 
 ---
 
