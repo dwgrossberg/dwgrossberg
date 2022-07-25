@@ -20,7 +20,9 @@
 
 ### :man_technologist: About Me :
 
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from the United States.
+I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">, a husband, and a father :family_man_woman_girl:. Our family recently moved back to the United States after 10+ years living and working in Southeast Asia. While there, I worked in a variety of professional roles, including as a Communications Specialist for [Kenan Foundation Asia](https://www.kenan-asia.org/) and a Sr. Brand Strategist for [Quo Global](https://www.quo-global.com/). During this time I worked on a large number of branding and desing projects, where I gained invaluable experience using Adobe InDesign & Illustrator, as well as working closely with our web designers to bring projects to life. This experience got me curious about programming and eventually led me to Al Sweigart's excellent *Automate the Boring Stuff with Python* book/course, which truly transformed my professional objectives.
+
+In 2020, I became a father for the first time and my life took on a new sense of meaning. Since then, I've been working as a full-time stay-at-home dad and a freelance brand consultant - I even launched my own freelance agency in Bangokok: [Five Spice Freelance](https://fivespicefreelance.com/). Staying home with our daughter has been immensely rewarding and challenging for me.
 
 - 🌱 I’m currently learning Full Stack Web Development with JavaScript via [The Odin Project](https://www.theodinproject.com/)
 - 🔭 I’m currently building web applications that adhere to the design principles of Object Oriented Programming, in particular the SOLID design principles
