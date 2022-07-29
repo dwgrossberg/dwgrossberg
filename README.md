@@ -53,7 +53,7 @@ In 2020, I became a father for the first time and my life took on a new sense of
 - Strong communicator and effective documenter
 - Team-oriented mindset and personality
 - Meticulous and detail-oriented researcher
-- Adaptable, flexible, and affable
+- Adaptable, flexible, and affable human
 
 ---
 
