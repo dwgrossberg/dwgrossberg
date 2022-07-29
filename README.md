@@ -20,7 +20,7 @@
 
 ### :man_technologist: About Me :
 
-I am a full stack developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">, a husband, and a father :family_man_woman_girl:. Our family recently moved back to the United States after 10+ years living in Asia. While there, I worked in a variety of professional roles, including as a Communications Specialist for [Kenan Foundation Asia](https://www.kenan-asia.org/) and a Sr. Brand Strategist for [Quo Global](https://www.quo-global.com/). During this time, I travelled extensively throughout Southeast Asia, working on large-scale branding and design projects for the hospitaltiy industry. I was also lucky enough to gain invaluable technical experience using Adobe InDesign & Illustrator, as well as working closely with our web designers to bring complex ideas to life. This experience got me curious about programming and eventually led me to Al Sweigart's excellent *Automate the Boring Stuff with Python* book/course, which truly transformed my professional objectives.
+I am a full stack developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">, a husband, and a father :family_man_woman_girl:. Our family recently moved back to the United States after 10+ years living in Asia. While there, I worked in a variety of professional roles, including as a Communications Consultant for [Kenan Foundation Asia](https://www.kenan-asia.org/) and a Sr. Brand Strategist for [Quo Global](https://www.quo-global.com/). During this time, I travelled extensively throughout Southeast Asia, working on large-scale branding and design projects for the hospitaltiy industry. I was also lucky enough to gain invaluable technical experience using Adobe InDesign & Illustrator, as well as working closely with our web designers to bring complex ideas to life. This experience got me curious about programming and eventually led me to Al Sweigart's excellent *Automate the Boring Stuff with Python* book/course, which truly transformed my professional objectives.
 
 In 2020, I became a father for the first time and my life took on a new sense of meaning. Since then, I've been a full-time stay-at-home dad and a freelance brand consultant - I even launched my own freelance agency in Bangokok: [Five Spice Freelance](https://fivespicefreelance.com/). Staying home with our daughter for the first two years of her life was immensely rewarding and challenging, and it also gave me the opportunity to pursue programming further. With more time to invest in learning, I quickly grew to love programming and the intricate problem-solving mindset that it requires. I was 'hooked', as they say, and since then I've spent thousands of hours studying, coding, debugging, and building applications.
 
@@ -49,10 +49,10 @@ In 2020, I became a father for the first time and my life took on a new sense of
 
 ### :writing_hand: Soft Skills :
 
-- Excellent at time-management and pursuing independent work
-- Strong communicator, whether client-facing and internal
+- Bringing dynamic projects to life under tight deadlines
+- Strong communicator and effective documenter
 - Team-oriented mindset and personality
-- Meticulous and detail-oriented researcher and planner
+- Meticulous and detail-oriented researcher
 - Adaptable, flexible, and affable
 
 ---
