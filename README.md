@@ -49,8 +49,11 @@ In 2020, I became a father for the first time and my life took on a new sense of
 
 ### :writing_hand: Soft Skills :
 
-- Bringing dynamic projects to life under tight deadlines
-- Strong communicator and effective documenter
+- Collaborating with a diverse internal team
+- Presenting to clients and meeting with external stakeholders
+- Bringing complex projects to life
+- Excellent independent worker and effective time-manager
+- Strong communicator and documenter
 - Team-oriented mindset and personality
 - Meticulous and detail-oriented researcher
 - Adaptable, flexible, and affable human
