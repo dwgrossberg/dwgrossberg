@@ -26,7 +26,7 @@ In 2020, I became a father for the first time and my life took on a new sense of
 
 - 🌱 I’m currently learning Full Stack Web Development with JavaScript via [The Odin Project](https://www.theodinproject.com/)
 - 🔭 I’m currently building web applications that adhere to the design principles of Object Oriented Programming, in particular the SOLID design principles
-- 🤔 Learn more about my past work in [brand strategy and design](https://danielgrossberg.com/portfolio/)
+- 🤔 Learn more about my past work in brand strategy and design [here](https://danielgrossberg.com/portfolio/)
 
 ---
 
