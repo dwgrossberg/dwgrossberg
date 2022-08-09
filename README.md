@@ -25,7 +25,7 @@ I am a full stack developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 In 2020, I became a father for the first time and my life took on a new sense of meaning and direction. Since then, I've been a full-time stay-at-home dad and a freelance brand consultant - I even launched my own freelance agency in Bangkok: [Five Spice Freelance](https://fivespicefreelance.com/). Staying home with our daughter for the first two years of her life was immensely rewarding and challenging, and it also gave me the opportunity to pursue programming further. With more time to invest in learning, I quickly grew to love programming and the intricate problem-solving mindset that it requires. I was hooked, as they say, and since then I've spent thousands of hours studying, coding, debugging, and building applications.
 
 - 🌱 I’m currently learning Full Stack Web Development with JavaScript via [The Odin Project](https://www.theodinproject.com/)
-- 🔭 I’m currently building web applications that adhere to the design principles of Object Oriented Programming, in particular the SOLID design principles
+- 🔭 I’m interested in building web applications that adhere to the design principles of Object Oriented Programming, in particular the SOLID design principles
 - 🤔 Learn more about my past work in brand strategy and design [here](https://danielgrossberg.com/portfolio/)
 
 ---
