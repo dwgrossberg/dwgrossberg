@@ -55,6 +55,7 @@ In 2020, I became a father for the first time and my life took on a new sense of
 - Bringing complex projects to life
 - Excellent independent worker and effective time-manager
 - Strong communicator and documenter
+- Concise writer
 - Team-oriented mindset and personality
 - Meticulous and detail-oriented researcher
 - Adaptable, flexible, and affable human
