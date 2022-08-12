@@ -52,15 +52,15 @@ In 2020, I became a father for the first time and my life took on a new sense of
 
 ### :writing_hand: Soft Skills :
 
-- Collaborating with a diverse internal team
-- Presenting to clients and meeting with external stakeholders
+- Collaboration and communication
+- Presenting to clients and meeting with stakeholders
 - Bringing complex projects to life
-- Excellent independent worker and effective time-manager
-- Strong communicator and documenter
-- Concise writer
+- Managing time and independent work
 - Team-oriented mindset and personality
 - Meticulous and detail-oriented researcher
 - Adaptable, flexible, and affable human
+- Concise writer
+- Reliable
 
 ---
 
