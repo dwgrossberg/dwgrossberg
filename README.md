@@ -27,6 +27,7 @@ In 2020, I became a father for the first time and my life took on a new sense of
 - 🌱 I’m currently learning Full Stack Web Development with JavaScript via [The Odin Project](https://www.theodinproject.com/)
 - 🔭 I’m interested in building web applications that adhere to the design principles of Object Oriented Programming, in particular the SOLID design principles
 - 🤔 Learn more about my past work in brand strategy and design [here](https://danielgrossberg.com/portfolio/)
+- 📫 Find a copy of my current resume [here](DanielGrossbergResume_2022.pdf)
 
 ---
 
@@ -77,7 +78,6 @@ In 2020, I became a father for the first time and my life took on a new sense of
     <img alt="dwgrossbergs's top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dwgrossberg&layout=compact&theme=tokyonight&exclude_repo=odin-recipes"/>
   </a>
 </p>
-
 
 <!--
 **dwgrossberg/dwgrossberg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
