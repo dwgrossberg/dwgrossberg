@@ -56,7 +56,7 @@ In 2020, I became a father for the first time and my life took on a new sense of
 - Collaboration and communication
 - Presenting to clients and meeting with stakeholders
 - Bringing complex projects to life
-- Managing time and independent work
+- Time management and independent work
 - Team-oriented mindset and personality
 - Meticulous and detail-oriented researcher
 - Adaptable, flexible, and affable human
