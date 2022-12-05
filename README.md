@@ -79,7 +79,7 @@ In 2020, I became a father for the first time and my life took on a new sense of
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img alt="dwgrossbergs's top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dwgrossberg&layout=compact&theme=tokyonight&exclude_repo=odin-recipes"/>
+    <img alt="dwgrossbergs's top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dwgrossberg&layout=compact&theme=tokyonight&exclude_repo=odin-recipes&langs_count=8"/>
   </a>
 </p>
 
