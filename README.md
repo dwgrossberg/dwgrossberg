@@ -10,7 +10,7 @@
   <h1>
     Hi
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px"/>
-    my name is Daniel
+    my name is Dan
 </h1>
 </div>
 
@@ -20,7 +20,13 @@
 
 ### :man_technologist: About Me :
 
-I am a full stack developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">, a husband, and a father :family_man_woman_girl:. I recently moved back to the United States with my family after 10+ years living in Asia. While there, I worked in a variety of professional roles, including as a [Fulbright Research Scholar](https://fulbrightscholars.org/) at Sichuan University in Chengdu, China, a Communications Consultant for [Kenan Foundation Asia](https://www.kenan-asia.org/), and a Sr. Brand Strategist for [Quo Global](https://www.quo-global.com/) in Bangkok, Thailand. During this time, I travelled extensively throughout Asia and Europe, working on large-scale branding and design projects for the hospitality industry. I was also lucky enough to gain invaluable technical experience using Adobe InDesign & Illustrator, and working closely with our web designers to bring complex ideas to life. This experience got me curious about programming and eventually led me to Al Sweigart's excellent [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/) book/course, which captured my full attention and altered my professional goals.
+After getting my first degree in English literature over a decade ago, I've returned to school at Oregon State University [Oregon State University](https://oregonstate.edu/), in pursuit of a second bachelor's in computer science. I'm a software engineer in training <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">, a student, a husband, and a father :family_man_woman_girl:. 
+
+In 2022, I moved back to the United States with my family after 10+ years of living in Asia. While there I worked in a variety of professional roles, including as a Sr. Brand Strategist for [Quo Global](https://www.quo-global.com/), a Communications Consultant for [Kenan Foundation Asia](https://www.kenan-asia.org/), and a [Fulbright Research Scholar](https://fulbrightscholars.org/) at Sichuan University in Chengdu, China. During this time I travelled extensively for work throughout Asia and Europe, collaborating with multinational teams on large-scale branding and design projects. Along the way I gained invaluable technical experience, becoming proficient with Adobe InDesign & Illustrator and coordinating with in-house web development teams to bring complex ideas to life. It was this experience that first got me curious about programming.
+
+<!--
+and eventually led me to Al Sweigart's excellent [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/) book/course, which captured my full attention and changed my professional goals.
+-->
 
 In 2020, I became a father for the first time and my life took on a new sense of meaning and direction. Since then, I've been a full-time stay-at-home dad and a freelance brand consultant - I even launched my own freelance agency in Bangkok: [Five Spice Freelance](https://fivespicefreelance.com/). Staying home with our daughter for the first two years of her life was immensely rewarding and challenging, and it also gave me the opportunity to pursue programming further. With more time to invest in learning, I quickly grew to love programming and the intricate problem-solving mindset that it requires. I was hooked, as they say, and since then I've spent thousands of hours studying, coding, debugging, and building applications.
 
