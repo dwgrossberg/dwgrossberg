@@ -20,9 +20,21 @@
 
 ### :man_technologist: About Me :
 
-After getting my first degree in English literature over a decade ago, I've returned to school at Oregon State University [Oregon State University](https://oregonstate.edu/), in pursuit of a second bachelor's in computer science. I'm a software engineer in training <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">, a student, a husband, and a father :family_man_woman_girl:. 
+I'm a student, a husband, and a father :family_man_woman_girl: to a young daughter. After more than a decade out of the classroom, I've returned to school at Oregon State University [Oregon State University](https://oregonstate.edu/), in pursuit of a second bachelor's degree in computer science. 
+<!--
+My journey to programming started a long time ago and involves many detours. When I was 7 - early 90's - we got our first family computer. At the time, I was obsessed with number puzzles - Sudoku among others - and my Dad was an economics professor with early computing experience - he conducted his dissertation research using manual stacks of IBM punch cards. From an early age, he instilled in me an interest and curiousity for technology. 
 
-In 2022, I moved back to the United States with my family after 10+ years of living in Asia. While there I worked in a variety of professional roles, including as a Sr. Brand Strategist for [Quo Global](https://www.quo-global.com/), a Communications Consultant for [Kenan Foundation Asia](https://www.kenan-asia.org/), and a [Fulbright Research Scholar](https://fulbrightscholars.org/) at Sichuan University in Chengdu, China. During this time I travelled extensively for work throughout Asia and Europe, collaborating with multinational teams on large-scale branding and design projects. Along the way I gained invaluable technical experience, becoming proficient with Adobe InDesign & Illustrator and coordinating with in-house web development teams to bring complex ideas to life. It was this experience that first got me curious about programming.
+I applied for and recieved a [Fulbright Research Grant](https://fulbrightscholars.org/) to study the impact of the 2008 Sichuan earthquake on Chinese domestic tourism and migration. While there, I worked closedly with a professor from Sichuan University, conducting numerous research trips together and interviewing survivors. This experience opened my eyes 
+
+at Sichuan University in Chengdu, China. 
+
+I moved to Bangkok, Thailand, with 
+-->
+
+
+In 2022, I moved back to the United States with my family after 10+ years of living in Asia. While there I worked in a variety of professional roles, including as a Sr. Brand Strategist for [Quo Global](https://www.quo-global.com/), a Communications Consultant for [Kenan Foundation Asia](https://www.kenan-asia.org/), and a [Fulbright Research Scholar](https://fulbrightscholars.org/) at Sichuan University in Chengdu, China. 
+
+During this time I travelled extensively for work throughout Asia and Europe, collaborating with multinational teams on large-scale branding and design projects. Along the way I gained invaluable technical experience, becoming proficient with Adobe InDesign & Illustrator and coordinating with in-house web development teams to bring complex ideas to life. It was this experience that first got me curious about programming.
 
 <!--
 and eventually led me to Al Sweigart's excellent [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/) book/course, which captured my full attention and changed my professional goals.
