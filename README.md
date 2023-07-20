@@ -20,9 +20,12 @@
 
 ### :man_technologist: About Me :
 
-I'm a student, a husband, and a father :family_man_woman_girl: to a young daughter. After more than a decade out of the classroom, I've returned to school at Oregon State University [Oregon State University](https://oregonstate.edu/), in pursuit of a second bachelor's degree in computer science. 
+I'm a student, a husband, and a father :family_man_woman_girl: to a young daughter. After more than a decade out of the classroom, I've returned to school at Oregon State University [Oregon State University](https://oregonstate.edu/) in pursuit of a second bachelor's degree in computer science. 
 <!--
-My journey to programming started a long time ago and involves many detours. When I was 7 - early 90's - we got our first family computer. At the time, I was obsessed with number puzzles - Sudoku among others - and my Dad was an economics professor with early computing experience - he conducted his dissertation research using manual stacks of IBM punch cards. From an early age, he instilled in me an interest and curiousity for technology. 
+My journey to programming started a long time ago and involves many detours. When I was 7 - early 90's - we got our first family computer. At the time I was a bookish math nerd, obsessed with number and word puzzles, and my Dad was an economics professor with early computing experience, who had conducted his dissertation research using manual stacks of IBM punch cards. From an early age, he instilled in me a deep interest and curiousity in technology and its many applications.
+
+Coming out of high school, I orginially enrolled as a math major, but after
+I originally enrolled as a math major, but soon rediscovered my love for books, storytelling, and language
 
 I applied for and recieved a [Fulbright Research Grant](https://fulbrightscholars.org/) to study the impact of the 2008 Sichuan earthquake on Chinese domestic tourism and migration. While there, I worked closedly with a professor from Sichuan University, conducting numerous research trips together and interviewing survivors. This experience opened my eyes 
 
